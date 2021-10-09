@@ -16,5 +16,8 @@
 <details>
   <summary><b>:book: 2021 </b></summary>
   This has been a difficult year for everyone and for me. But still a long way to go, still full of hope and enthusiasm, and still working on the amazing projects!<br>
-  Feel free to contact me if you have any question about my projects or if you are curious about me! 😄
+  Feel free to contact me if you have any question about my projects or if you are curious about me! 😄 
 </details>
+
+<br>
+[![Pengzhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengzhi1998)](https://github.com/pengzhi1998/github-readme-stats)
