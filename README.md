@@ -4,11 +4,11 @@
     :wave: Hello World! My name's 杨鹏志, Pengzhi Yang, 
     <br> a young man always crazy about computer science, AI and Robotics!
     <br> Graduated from UESTC Yingcai Honors College in 2020,
-      <br>I'm working on robot projects these days :sparkles:<br><br>
+      <br>I'm working on robot projects these days <br><br>
     <img src="https://i.imgur.com/BnWJI6O.gif" width="240px" align="center">
     <br><br>
-    I love Travelling, <a href="https://500px.com/p/Y_Marcus?view=photos">Photography</a>, Diving, and Legos🧱. <br>
-    :tiger: Check my Webpage :point_right: <a href="https://pengzhi1998.com/#about">here</a><br>
+    Besides, I REALLY love Travelling, <a href="https://500px.com/p/Y_Marcus?view=photos">Photography</a>, Diving, and Legos🧱. <br>
+    :tiger: <a href="https://pengzhi1998.com/#about">My Webpage </a> :point_left: <br> 
     :robot: <a href="https://www.linkedin.com/in/%E9%B9%8F%E5%BF%97-%E6%9D%A8-751a67181/">My LinkedIn Page</a> :point_left:
   </samp>
 </p>
