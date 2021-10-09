@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    :wave: Hello World! My name's Pengzhi Yang, 
+    :wave: Hello World! My name's 杨鹏志, Pengzhi Yang, 
     <br> a young man always crazy about computer science, AI and Robotics!
     <br> Graduated from UESTC Yingcai Honors College in 2020,
       <br>I'm working on robot projects these days :sparkles:<br><br>
