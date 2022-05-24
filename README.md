@@ -6,7 +6,7 @@
     <br> Graduated from UESTC Yingcai Honors College in 2020,
       <br>I'm working on robot projects these days <br>
     Besides, I REALLY love Travelling, <a href="https://500px.com/p/Y_Marcus?view=photos">Photography</a>:camera:, Diving, and Legos🧱. <br><br>
-    <img src="https://i.imgur.com/BnWJI6O.gif" width="240px" align="center">
+    <img src="https://i.imgur.com/Pg11mcW.gif" width="240px" align="center">
     <br><br>
     :tiger: <a href="https://pengzhi1998.com/#about">My Webpage </a> :point_left: |
     :robot: <a href="https://www.linkedin.com/in/%E9%B9%8F%E5%BF%97-%E6%9D%A8-751a67181/">My LinkedIn Page</a> :point_left: |
@@ -26,4 +26,3 @@
   This has been a difficult year for everyone and for me. But still a long way to go, still full of hope and enthusiasm, and still working on the amazing projects!<br>
   Feel free to contact me if you have any question about my projects or if you are curious about me! 😄 
 </details>
-
