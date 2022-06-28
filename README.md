@@ -2,9 +2,7 @@
   <br>
   <samp>
     :wave: Hello World! My name's 杨鹏志, Pengzhi Yang, 
-    <br> a young man always crazy about computer science, AI and Robotics!
-    <br> Graduated from UESTC Yingcai Honors College in 2020,
-      <br>I'm working on robot projects these days <br>
+    <br> a young man always crazy about computer science, AI and Robotics! <br>
     Besides, I REALLY love Travelling, <a href="https://500px.com/p/Y_Marcus?view=photos">Photography</a>:camera:, Diving, and Legos🧱. <br><br>
     <img src="https://i.imgur.com/w8ZBC9S.gif" width="240px" align="center">
     <br><br>
