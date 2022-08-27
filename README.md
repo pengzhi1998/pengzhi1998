@@ -25,5 +25,5 @@
 </details>
 <details>
   <summary><b>:book: 2022 </b></summary>
-  Hard working!
+  Motto: Be cautious under certainty, and keep optimistic in uncertainty!
 </details>
