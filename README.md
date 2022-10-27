@@ -4,7 +4,7 @@
     :wave: Hello World! My name's 杨鹏志, Pengzhi Yang, 
     <br> a young man always crazy about computer science, AI and Robotics! <br>
     Besides, I REALLY love Travelling, <a href="https://500px.com/p/Y_Marcus?view=photos">Photography</a>:camera:, Diving, and Legos🧱. <br><br>
-    <img src="https://user-images.githubusercontent.com/38170947/198264741-a37b9795-6cc3-4c64-abc8-a101ec41fd1f.gif" width="240px" align="center">
+    <img src="https://user-images.githubusercontent.com/38170947/198264741-a37b9795-6cc3-4c64-abc8-a101ec41fd1f.gif" width="160px" align="center">
     <br><br>
     :tiger: <a href="https://pengzhi1998.com/#about">My Webpage </a> :point_left: |
     :robot: <a href="https://www.linkedin.com/in/%E9%B9%8F%E5%BF%97-%E6%9D%A8-751a67181/">My LinkedIn Page</a> :point_left: |
