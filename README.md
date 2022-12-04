@@ -14,7 +14,7 @@
 
 
   <summary><b>🚀 Github Stats </b></summary>
-<a href="https://github.com/pengzhi1998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pengzhi1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/pengzhi1998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhi1998&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/pengzhi1998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pengzhi1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/pengzhi1998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhi1998&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
 
