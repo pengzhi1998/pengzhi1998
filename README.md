@@ -12,12 +12,13 @@
   </samp>
 </p>
 
-<details>
+
   <summary><b>🚀 Github Stats </b></summary>
-<p align="left">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pengzhi1998&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
-</p> 
-</details>
+<a href="https://github.com/pengzhi1998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pengzhi1998&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/pengzhi1998/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhi1998&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+
+
+
 
 <details>
   <summary><b>:book: 2021 </b></summary>
