@@ -8,7 +8,7 @@
     <br><br>
     :tiger: <a href="https://pengzhi1998.github.io/">My Webpage </a> :point_left: |
     :robot: <a href="https://www.linkedin.com/in/%E9%B9%8F%E5%BF%97-%E6%9D%A8-751a67181/">My LinkedIn Page</a> :point_left: |
-    📓 <a href="https://pengzhi1998.com/files/CV-Pengzhi_Yang.pdf">My Resume</a> :point_left:
+    📓 <a href="https://pengzhi1998.github.io/files/CV-Pengzhi_Yang.pdf">My Resume</a> :point_left:
   </samp>
 </p>
 
